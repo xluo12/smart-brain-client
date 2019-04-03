@@ -8,7 +8,8 @@
     "react-dom": "^16.8.6",
     "react-particles-js": "^2.5.1",
     "react-scripts": "2.1.8",
-    "react-tilt": "^0.1.4"
+    "react-tilt": "^0.1.4",
+    "tachyons": "^4.10.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -26,6 +27,5 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "tachyons": "^4.10.0"
   }
 }
